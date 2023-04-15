@@ -30,13 +30,24 @@ if(T >= 0)
 	/// @DnDArgument : "op" "2"
 	if(VT > 0)
 	{
-		/// @DnDAction : YoYo Games.Common.Execute_Code
+		/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 		/// @DnDVersion : 1
-		/// @DnDHash : 05CD7ACB
+		/// @DnDHash : 644A24D3
 		/// @DnDParent : 4DEEB58F
-		/// @DnDArgument : "code" "/// Move player character upwards$(13_10)move_contact_solid(90, VT);"
-		/// Move player character upwards
-		move_contact_solid(90, VT);
+		/// @DnDArgument : "key" "ord("S")"
+		/// @DnDArgument : "not" "1"
+		var l644A24D3_0;
+		l644A24D3_0 = keyboard_check(ord("S"));
+		if (!l644A24D3_0)
+		{
+			/// @DnDAction : YoYo Games.Common.Execute_Code
+			/// @DnDVersion : 1
+			/// @DnDHash : 05CD7ACB
+			/// @DnDParent : 644A24D3
+			/// @DnDArgument : "code" "/// Move player character upwards$(13_10)move_contact_solid(90, VT);"
+			/// Move player character upwards
+			move_contact_solid(90, VT);
+		}
 	}
 
 	/// @DnDAction : YoYo Games.Common.Else

@@ -25,10 +25,10 @@ draw_set_alpha(l48109956_0 / $ff);
 /// @DnDHash : 0C73E621
 /// @DnDArgument : "x1" "10"
 /// @DnDArgument : "y1" "15"
-/// @DnDArgument : "x2" "300"
+/// @DnDArgument : "x2" "295"
 /// @DnDArgument : "y2" "80"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(10, 15, 300, 80, 0);
+draw_rectangle(10, 15, 295, 80, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
