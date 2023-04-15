@@ -17,6 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_invisplatform","order":7,"path":"objects/obj_invisplatform/obj_invisplatform.yy",},
+    {"name":"enemy_meteor","order":9,"path":"sprites/enemy_meteor/enemy_meteor.yy",},
+    {"name":"invisible_platform","order":8,"path":"sprites/invisible_platform/invisible_platform.yy",},
+    {"name":"obj_meteor","order":8,"path":"objects/obj_meteor/obj_meteor.yy",},
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
     {"name":"moon_spikes","order":7,"path":"sprites/moon_spikes/moon_spikes.yy",},
     {"name":"obj_movingspikefloor","order":6,"path":"objects/obj_movingspikefloor/obj_movingspikefloor.yy",},

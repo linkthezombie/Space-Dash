@@ -14,6 +14,8 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f17b6f44-3caa-45ff-821f-5754535bf090",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6b3fa8d1-8774-48f6-b298-12118a5fafc8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a8955186-867c-44f1-beb7-935f42ba6e08",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -43,7 +45,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 3.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -55,6 +57,8 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f17b6f44-3caa-45ff-821f-5754535bf090","path":"sprites/background_stranded/background_stranded.yy",},},},"Disabled":false,"id":"2cdeff5b-f2a9-467a-97b8-8aca712b0909","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6b3fa8d1-8774-48f6-b298-12118a5fafc8","path":"sprites/background_stranded/background_stranded.yy",},},},"Disabled":false,"id":"599c2fa3-940c-4242-9bdd-c494b8bcf1ee","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a8955186-867c-44f1-beb7-935f42ba6e08","path":"sprites/background_stranded/background_stranded.yy",},},},"Disabled":false,"id":"fe2d2bdc-87a8-469e-804d-46bba213545a","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
