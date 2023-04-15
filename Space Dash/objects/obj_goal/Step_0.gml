@@ -27,9 +27,11 @@ if ((l345A3CC5_0 > 0))
 	/// @description Execute Code
 	show_message("Escaped!");
 
-	/// @DnDAction : YoYo Games.Game.End_Game
+	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
-	/// @DnDHash : 10A32107
+	/// @DnDHash : 0796B723
 	/// @DnDParent : 345A3CC5
-	game_end();
+	/// @DnDArgument : "room" "Main_Menu"
+	/// @DnDSaveInfo : "room" "Main_Menu"
+	room_goto(Main_Menu);
 }
