@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "flooring_moon",
+  "name": "obj_moonfloor",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
