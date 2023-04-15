@@ -16,5 +16,9 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"moon_surface","order":3,"path":"sprites/moon_surface/moon_surface.yy",},
+    {"name":"player","order":2,"path":"sprites/player/player.yy",},
+    {"name":"background_meteoraid","order":1,"path":"sprites/background_meteoraid/background_meteoraid.yy",},
+  ],
 }
