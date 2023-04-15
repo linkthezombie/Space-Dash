@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_moonfloor",
-  "eventList": [],
+  "name": "obj_goal",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -24,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "moon_surface",
-    "path": "sprites/moon_surface/moon_surface.yy",
+    "name": "moon_goal",
+    "path": "sprites/moon_goal/moon_goal.yy",
   },
   "spriteMaskId": null,
   "visible": true,
