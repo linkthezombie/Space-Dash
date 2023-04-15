@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 2,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -41,7 +41,6 @@
     {"id":{"name":"enemy_alien","path":"sprites/enemy_alien/enemy_alien.yy",},},
     {"id":{"name":"moon_surface","path":"sprites/moon_surface/moon_surface.yy",},},
     {"id":{"name":"background_stranded","path":"sprites/background_stranded/background_stranded.yy",},},
-    {"id":{"name":"obj_staticfloor","path":"objects/obj_staticfloor/obj_staticfloor.yy",},},
     {"id":{"name":"moon_goal","path":"sprites/moon_goal/moon_goal.yy",},},
     {"id":{"name":"controller","path":"objects/controller/controller.yy",},},
     {"id":{"name":"player","path":"sprites/player/player.yy",},},

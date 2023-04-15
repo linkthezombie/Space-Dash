@@ -1,20 +1,22 @@
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
 /// @DnDHash : 4806F821
-/// @DnDArgument : "x" "-3"
+/// @DnDArgument : "x" "-6"
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "0"
 /// @DnDArgument : "y_relative" "1"
-x += -3;
+x += -6;
 y += 0;
 
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 345A3CC5
 /// @DnDArgument : "x" " 0"
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "obj_player"
 /// @DnDSaveInfo : "object" "obj_player"
-var l345A3CC5_0 = instance_place( 0, 0, obj_player);
+var l345A3CC5_0 = instance_place(x +  0, y + 0, obj_player);
 if ((l345A3CC5_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Common.Execute_Code
