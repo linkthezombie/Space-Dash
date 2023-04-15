@@ -22,8 +22,8 @@ if(T < 0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 3A7A6EC5
 		/// @DnDParent : 2F53D164
-		/// @DnDArgument : "expr" "V /  A"
+		/// @DnDArgument : "expr" "V / A"
 		/// @DnDArgument : "var" "T"
-		T = V /  A;
+		T = V / A;
 	}
 }

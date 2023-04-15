@@ -90,8 +90,8 @@ if(T >= 0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 162078BA
 		/// @DnDParent : 09D4A89E
-		/// @DnDArgument : "code" "/// Move player character downwards$(13_10)move_contact_solid(270, -(1.8 * VT) + 0.00001);"
+		/// @DnDArgument : "code" "/// Move player character downwards$(13_10)move_contact_solid(270, -VT + 0.00001);"
 		/// Move player character downwards
-		move_contact_solid(270, -(1.8 * VT) + 0.00001);
+		move_contact_solid(270, -VT + 0.00001);
 	}
 }
