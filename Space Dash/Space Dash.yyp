@@ -35,6 +35,8 @@
   },
   "resources": [
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
+    {"id":{"name":"moon_spikes","path":"sprites/moon_spikes/moon_spikes.yy",},},
+    {"id":{"name":"obj_movingspikefloor","path":"objects/obj_movingspikefloor/obj_movingspikefloor.yy",},},
     {"id":{"name":"obj_movingfloor","path":"objects/obj_movingfloor/obj_movingfloor.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"player","path":"sprites/player/player.yy",},},

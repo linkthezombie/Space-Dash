@@ -18,6 +18,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
+    {"name":"moon_spikes","order":7,"path":"sprites/moon_spikes/moon_spikes.yy",},
+    {"name":"obj_movingspikefloor","order":6,"path":"objects/obj_movingspikefloor/obj_movingspikefloor.yy",},
     {"name":"obj_movingfloor","order":5,"path":"objects/obj_movingfloor/obj_movingfloor.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"player","order":6,"path":"sprites/player/player.yy",},
