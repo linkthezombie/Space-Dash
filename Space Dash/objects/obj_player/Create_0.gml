@@ -15,6 +15,6 @@ V = 18;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6069E550
-/// @DnDArgument : "expr" "0.8"
+/// @DnDArgument : "expr" "0.9"
 /// @DnDArgument : "var" "A"
-A = 0.8;
+A = 0.9;

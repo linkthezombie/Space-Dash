@@ -18,9 +18,13 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_menu_levelselect","order":11,"path":"objects/obj_menu_levelselect/obj_menu_levelselect.yy",},
+    {"name":"obj_menu_mainmenu","order":14,"path":"objects/obj_menu_mainmenu/obj_menu_mainmenu.yy",},
     {"name":"obj_invisplatform","order":7,"path":"objects/obj_invisplatform/obj_invisplatform.yy",},
+    {"name":"Chapter1_2","order":3,"path":"rooms/Chapter1_2/Chapter1_2.yy",},
     {"name":"enemy_meteor","order":9,"path":"sprites/enemy_meteor/enemy_meteor.yy",},
+    {"name":"Level_Select","order":2,"path":"rooms/Level_Select/Level_Select.yy",},
     {"name":"invisible_platform","order":8,"path":"sprites/invisible_platform/invisible_platform.yy",},
+    {"name":"obj_menu_leveltwo","order":16,"path":"objects/obj_menu_leveltwo/obj_menu_leveltwo.yy",},
     {"name":"player_standing","order":12,"path":"sprites/player_standing/player_standing.yy",},
     {"name":"obj_meteor","order":8,"path":"objects/obj_meteor/obj_meteor.yy",},
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
@@ -28,6 +32,7 @@
     {"name":"obj_movingspikefloor","order":6,"path":"objects/obj_movingspikefloor/obj_movingspikefloor.yy",},
     {"name":"menu_button","order":10,"path":"sprites/menu_button/menu_button.yy",},
     {"name":"obj_movingfloor","order":5,"path":"objects/obj_movingfloor/obj_movingfloor.yy",},
+    {"name":"Searching","order":2,"path":"sounds/Searching/Searching.yy",},
     {"name":"obj_menu_quit","order":12,"path":"objects/obj_menu_quit/obj_menu_quit.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"Main_Menu","order":1,"path":"rooms/Main_Menu/Main_Menu.yy",},
@@ -41,5 +46,6 @@
     {"name":"death_hiss","order":1,"path":"sounds/death_hiss/death_hiss.yy",},
     {"name":"controller","order":2,"path":"objects/controller/controller.yy",},
     {"name":"background_meteoraid","order":1,"path":"sprites/background_meteoraid/background_meteoraid.yy",},
+    {"name":"obj_menu_levelone","order":15,"path":"objects/obj_menu_levelone/obj_menu_levelone.yy",},
   ],
 }

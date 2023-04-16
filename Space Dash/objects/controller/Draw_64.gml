@@ -24,11 +24,11 @@ draw_set_alpha(l48109956_0 / $ff);
 /// @DnDVersion : 1
 /// @DnDHash : 0C73E621
 /// @DnDArgument : "x1" "10"
-/// @DnDArgument : "y1" "15"
+/// @DnDArgument : "y1" "10"
 /// @DnDArgument : "x2" "295"
-/// @DnDArgument : "y2" "80"
+/// @DnDArgument : "y2" "75"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(10, 15, 295, 80, 0);
+draw_rectangle(10, 10, 295, 75, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
@@ -41,8 +41,8 @@ draw_set_alpha(l35F4A316_0 / $ff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
 /// @DnDHash : 1A1773A9
-/// @DnDArgument : "x" "150"
-/// @DnDArgument : "y" "50"
+/// @DnDArgument : "x" "25"
+/// @DnDArgument : "y" "20"
 /// @DnDArgument : "caption" ""Deaths: ""
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(150, 50, string("Deaths: ") + string(__dnd_score));
+draw_text(25, 20, string("Deaths: ") + string(__dnd_score));
